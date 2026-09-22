@@ -13,10 +13,6 @@ Expected raw files:
 - Sample_Game_1_RawTrackingData_Away_Team.csv
 - Sample_Game_1_RawEventsData.csv
 
-Raw and processed CSV files are excluded from this repository due to file size.
-
-To reproduce the analysis, download Sample Game 1 from the Metrica Sports repository and place the files in:
-
-data/
+Processed CSV files are excluded from this repository due to file size.
 
 The notebooks should then be run sequentially from 01 to 04.
