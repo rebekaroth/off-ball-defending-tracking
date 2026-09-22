@@ -1,0 +1,14 @@
+# Data
+data/Sample_Game_1/
+data/processed/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
